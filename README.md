@@ -275,7 +275,7 @@ notStrictEqual( actual, expected, [message] );
 throws( block, [expected], [message] );
 ```
 
-
+[jquery programmer] (https://www.phpfreelanceprogrammer.com/jquery-ajax-programmer.html)
 Test Suite Convenience Methods Reference (See [test/data/testinit.js](https://github.com/jquery/jquery/blob/master/test/data/testinit.js))
 ------------------------------
 
